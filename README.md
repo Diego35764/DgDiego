@@ -2,7 +2,7 @@ getgenv().ServerHop = {
     min = 15,
     max = 30 --range of players on the server
 }
-getgenv().FlySpeed = 450
+getgenv().FlySpeed = 280
 getgenv().Team = "Prisoners"
 getgenv().TimeToLoad = 5
 
